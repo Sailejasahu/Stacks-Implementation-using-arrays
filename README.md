@@ -21,6 +21,8 @@ If the current top coach is a freight coach (e.g., F123), you must not add a pas
 Function	Description
 push(coachID)	Adds the coach to the stack after validating all rules.
 pop()	Removes the top coach from the stack.
+![image](https://github.com/user-attachments/assets/08af493c-f133-4c3d-9a9e-84d79d37d56a)
+
 peek()	Returns the ID of the top coach without removing it.
 isFull()	Returns true if the stack has reached maximum capacity.
 isEmpty()	Returns true if there are no coaches in the yard.
